@@ -1,0 +1,9 @@
+year,good,quantity,price
+2019,electricity,1200,0.2992
+2019,gas,6000,0.0583
+2019,non-energy,9600,1.0
+2019,fuel,0,1.41
+2022,electricity,1100,0.3421
+2022,gas,5200,0.0853
+2022,non-energy,10000,1.053
+2022,fuel,0,1.86
