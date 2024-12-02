@@ -1,56 +1,56 @@
-longname;shortnam;loggdp
-Angola;AGO;7.77
-Argentina;ARG;9.1300001
-Australia;AUS;9.8999996
-Burkina Faso;BFA;6.8499999
-Bahamas;BHS;9.29
-Bolivia;BOL;7.9299998
-Brazil;BRA;8.7299995
-Canada;CAN;9.9899998
-Chile;CHL;9.3400002
-Cote d'Ivoire;CIV;7.4400001
-Cameroon;CMR;7.5
-Congo;COG;7.4200001
-Colombia;COL;8.8100004
-Costa Rica;CRI;8.79
-Dominican Re;DOM;8.3599997
-Algeria;DZA;8.3900003
-Ecuador;ECU;8.4700003
-Egypt;EGY;7.9499998
-Ethiopia;ETH;6.1100001
-Gabon;GAB;8.8999996
-Ghana;GHA;7.3699999
-Guinea;GIN;7.4899998
-Gambia;GMB;7.27
-Guatemala;GTM;8.29
-Guyana;GUY;7.9000001
-Honduras;HND;7.6900001
-Haiti;HTI;7.1500001
-Jamaica;JAM;8.1899996
-Kenya;KEN;7.0599999
-Morocco;MAR;8.04
-Madagascar;MDG;6.8400002
-Mexico;MEX;8.9399996
-Mali;MLI;6.5700002
-Malta;MLT;9.4300003
-Niger;NER;6.73
-Nigeria;NGA;6.8099999
-Nicaragua;NIC;7.54
-New Zealand;NZL;9.7600002
-Panama;PAN;8.8400002
-Peru;PER;8.3999996
-Paraguay;PRY;8.21
-Sudan;SDN;7.3099999
-Senegal;SEN;7.4000001
-Sierra Leone;SLE;6.25
-El Salvador;SLV;7.9499998
-Togo;TGO;7.2199998
-Trinidad and Tobago;TTO;8.7700005
-Tunisia;TUN;8.4799995
-Tanzania;TZA;6.25
-Uganda;UGA;6.9699998
-Uruguary;URY;9.0299997
-USA;USA;10.22
-Venezuela;VEN;9.0699997
-South Africa;ZAF;8.8900003
-Zaire;ZAR;6.8699999
+longname;loggdp
+Angola;7.77
+Argentina;9.1300001
+Australia;9.8999996
+Burkina Faso;6.8499999
+Bahamas;9.29
+Bolivia;7.9299998
+Brazil;8.7299995
+Canada;9.9899998
+Chile;9.3400002
+Cote d'Ivoire;7.4400001
+Cameroon;7.5
+Congo;7.4200001
+Colombia;8.8100004
+Costa Rica;8.79
+Dominican Re;8.3599997
+Algeria;8.3900003
+Ecuador;8.4700003
+Egypt;7.9499998
+Ethiopia;6.1100001
+Gabon;8.8999996
+Ghana;7.3699999
+Guinea;7.4899998
+Gambia;7.27
+Guatemala;8.29
+Guyana;7.9000001
+Honduras;7.6900001
+Haiti;7.1500001
+Jamaica;8.1899996
+Kenya;7.0599999
+Morocco;8.04
+Madagascar;6.8400002
+Mexico;8.9399996
+Mali;6.5700002
+Malta;9.4300003
+Niger;6.73
+Nigeria;6.8099999
+Nicaragua;7.54
+New Zealand;9.7600002
+Panama;8.8400002
+Peru;8.3999996
+Paraguay;8.21
+Sudan;7.3099999
+Senegal;7.4000001
+Sierra Leone;6.25
+El Salvador;7.9499998
+Togo;7.2199998
+Trinidad and Tobago;8.7700005
+Tunisia;8.4799995
+Tanzania;6.25
+Uganda;6.9699998
+Uruguary;9.0299997
+USA;10.22
+Venezuela;9.0699997
+South Africa;8.8900003
+Zaire;6.8699999
